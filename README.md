@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Izzy Holmes
 
-# Your Github username
+# icholmes
